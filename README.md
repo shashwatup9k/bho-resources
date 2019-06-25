@@ -1,1 +1,1 @@
-# Bhojpuri Monolingual Corpus (Bhojpuri_Mono-Corpus)
+# Bhojpuri Monolingual Corpus
