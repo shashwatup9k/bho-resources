@@ -1,1 +1,1 @@
-# <u> Bhojpuri Corpuses</u>
+# <u> Bhojpuri Corpora</u>
