@@ -1,6 +1,6 @@
 # Summary
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLTR) is intially a part of the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLTR) was intially a part of the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
 
 
 # Introduction
