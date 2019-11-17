@@ -1,6 +1,6 @@
 # Summary
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLTR) is intially a part of the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLTR) was intially a part of the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
 
 
 # Introduction
@@ -35,7 +35,7 @@ I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: BHLTR v0.1
+Data available since: BHLTR v1.0
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: nonfiction news
