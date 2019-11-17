@@ -35,7 +35,7 @@ I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: BHLTR v0.1
+Data available since: BHLTR v1.0
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: nonfiction news
