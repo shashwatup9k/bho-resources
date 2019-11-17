@@ -10,7 +10,7 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLT
 
 # Acknowledgments
 
-I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit Compuational Lab, JNU, New Delhi
+I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit Computational Lab, JNU, New Delhi
 
 ## References
 
