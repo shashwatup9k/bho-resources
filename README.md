@@ -16,10 +16,26 @@ I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit
 
 <pre>
 @article{ojha2019english,
-  title={English-Bhojpuri SMT System: Insights from the Karaka Model},
+  title={[English-Bhojpuri SMT System: Insights from the Karaka Model](https://arxiv.org/pdf/1905.02239)},
   author={Ojha, Atul Kr},
   journal={arXiv preprint arXiv:1905.02239},
   year={2019}
+}
+</pre>
+<pre>
+@inproceedings{karakanta2019proceedings,
+  title={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
+  author={Karakanta, Alina and Ojha, Atul Kr and Liu, Chao-Hong and Washington, Jonathan and Oco, Nathaniel and Lakew, Surafel Melaku and Malykh, Valentin and Zhao, Xiaobing},
+  booktitle={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
+  year={2019}
+}
+</pre>
+<pre>
+@article{kumar2018automatic,
+  title={Automatic identification of closely-related Indian languages: Resources and experiments},
+  author={Kumar, Ritesh and Lahiri, Bornini and Alok, Deepak and Ojha, Atul Kr and Jain, Mayank and Basit, Abdul and Dawer, Yogesh},
+  journal={arXiv preprint arXiv:1803.09405},
+  year={2018}
 }
 </pre>
 <pre>
@@ -31,7 +47,6 @@ I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit
   year={2015}
 }
 </pre>
-
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
