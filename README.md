@@ -23,6 +23,22 @@ I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit
 }
 </pre>
 <pre>
+@inproceedings{karakanta2019proceedings,
+  title={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
+  author={Karakanta, Alina and Ojha, Atul Kr and Liu, Chao-Hong and Washington, Jonathan and Oco, Nathaniel and Lakew, Surafel Melaku and Malykh, Valentin and Zhao, Xiaobing},
+  booktitle={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
+  year={2019}
+}
+</pre>
+<pre>
+@article{kumar2018automatic,
+  title={Automatic identification of closely-related Indian languages: Resources and experiments},
+  author={Kumar, Ritesh and Lahiri, Bornini and Alok, Deepak and Ojha, Atul Kr and Jain, Mayank and Basit, Abdul and Dawer, Yogesh},
+  journal={arXiv preprint arXiv:1803.09405},
+  year={2018}
+}
+</pre>
+<pre>
 @inproceedings{ojha2015training,
   title={Training \& evaluation of POS taggers in Indo-Aryan languages: a case of Hindi, Odia and Bhojpuri},
   author={Ojha, Atul Kr. and Behera, Pitambar and Singh, Srishti and Jha, Girish N},
