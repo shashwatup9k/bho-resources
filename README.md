@@ -16,7 +16,7 @@ I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha and Sanskrit
 
 <pre>
 @article{ojha2019english,
-  title={[English-Bhojpuri SMT System: Insights from the Karaka Model](https://arxiv.org/pdf/1905.02239)},
+  title={English-Bhojpuri SMT System: Insights from the Karaka Model},
   author={Ojha, Atul Kr},
   journal={arXiv preprint arXiv:1905.02239},
   year={2019}
