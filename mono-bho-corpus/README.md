@@ -38,6 +38,7 @@ I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jn
   year={2018}
 }
 </pre>
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: BHLTR v1.0
 License: CC BY-NC-SA 4.0
