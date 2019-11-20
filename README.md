@@ -48,11 +48,13 @@ I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jn
 }
 </pre>
 
-
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: BHLTR v1.0
 License: CC BY-NC-SA 4.0
+=======
+Includes text: yes
+Genre: nonfiction news
 Contributors: Ojha, Atul Kr.
 Contact: shashwatup9k@gmail.com
 ===============================================================================
