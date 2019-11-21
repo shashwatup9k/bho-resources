@@ -1,7 +1,4 @@
-# Summary
-
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) monolinguial corpus was intially a part of the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
-
+# Bhojpuri Monolingual Corpus
 
 # Introduction
 
