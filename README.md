@@ -1,4 +1,4 @@
-# Bhojpuri Language Technological Resources(BHLTR)
+# Bhojpuri Language Technological Resources (BHLTR)
 
 # Introduction
 
