@@ -2,7 +2,7 @@
 
 # Introduction
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) monolinguial corpus was intially initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) monolingual corpus was intially initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
 
 
 # Acknowledgments
