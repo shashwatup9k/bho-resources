@@ -1,13 +1,14 @@
 # Bhojpuri Language Technological Resources (BHLTR)
 
-# Introduction
+## Introduction
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLTR) project was intially initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University (JNU), New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHLTR data contains monolingual, [parallel](./parallel-corpora) (English-Bhojpuri), and POS annotaed monolingual corpora. In this data, POS is annotated  according to [Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset](http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLTR) project was intially initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University (JNU), New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHLTR data contains monolingual, [parallel](./parallel-corpora) (English-Bhojpuri), and POS annotaed monolingual corpora. In this data, POS is annotated  according to [Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset](http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).  
+**Suggestion**:
 
-# License
-Please see the ***license.md*** file.
+## License
+Please see the ***license.md*** file. 
 
-# Acknowledgments
+## Acknowledgments
 
 I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jnu.ac.in/Faculty/gnjha/) and [Sanskrit Computational Lab, JNU, New Delhi](http://sanskrit.jnu.ac.in/index.jsp).
 
