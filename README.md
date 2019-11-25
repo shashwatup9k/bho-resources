@@ -6,6 +6,7 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLT
 
 # License
 Please see the ***license.md/license.txt*** file.
+
 # Acknowledgments
 
 I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jnu.ac.in/Faculty/gnjha/) and [Sanskrit Computational Lab, JNU, New Delhi](http://sanskrit.jnu.ac.in/index.jsp).
