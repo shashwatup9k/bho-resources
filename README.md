@@ -6,7 +6,7 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resource(BHLT
 **Suggestion**:
 
 ## License
-The Bhojpuri Language Technological Resources/Tools is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and the copyrights are reserved by me (Atul Kr. Ojha).
+The Bhojpuri Language Technological Resources/Tools is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and the copyright is held by author ([Atul Kr. Ojha](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)).
 
 ## Acknowledgments
 
