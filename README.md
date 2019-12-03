@@ -30,7 +30,7 @@ bho-resources/
 I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jnu.ac.in/Faculty/gnjha/) and [Sanskrit Computational Lab, JNU, New Delhi](http://sanskrit.jnu.ac.in/index.jsp).
 
 ## References
-
+If you use this data, please cite:
 <pre>
 @article{ojha2019english,
   title={English-Bhojpuri SMT System: Insights from the Karaka Model},
@@ -39,6 +39,7 @@ I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jn
   year={2019}
 }
 </pre>
+other papers/references about the BHLTR are:
 <pre>
 @inproceedings{karakanta2019proceedings,
   title={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
