@@ -34,7 +34,7 @@ The Bhojpuri Language Technological Resources/Tools is released under the [Creat
 I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jnu.ac.in/Faculty/gnjha/) and [Sanskrit Computational Lab, JNU, New Delhi](http://sanskrit.jnu.ac.in/index.jsp).
 
 ## References
-
+If you use this data, please cite:
 <pre>
 @article{ojha2019english,
   title={English-Bhojpuri SMT System: Insights from the Karaka Model},
