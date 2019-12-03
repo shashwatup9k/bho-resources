@@ -43,6 +43,7 @@ I would like to thanks my Doctoral supervisor [Prof. Girish Nath Jha](https://jn
   year={2019}
 }
 </pre>
+other papers/references about the BHLTR are:
 <pre>
 @inproceedings{karakanta2019proceedings,
   title={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
