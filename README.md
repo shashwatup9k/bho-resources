@@ -72,6 +72,7 @@ Data available since: BHLTR v1.0
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Contributors: Ojha, Atul Kr.
+Copyright (©) holder: Ojha, Atul Kr.
 Contact: shashwatup9k@gmail.com
 ===============================================================================
 </pre>
