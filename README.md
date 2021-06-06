@@ -12,7 +12,8 @@ bho-resources/
 │  ├─ README.md
 │  ├─ pos-annotated/
 │  │  └─ pos-tagged.bho
-│ 
+│  ├─ treebank/
+│  │  └─ README.md
 │  
 └─ parallel-corpora/
    ├─ README.md
