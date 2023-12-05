@@ -9,7 +9,7 @@
   - [Bhojpuri UD Treebank](https://github.com/UniversalDependencies/UD_Bhojpuri-BHTB)
   - [Low-level NLP Tools for Magahi and Bhojpuri Shared Task](https://github.com/shashwatup9k/nsurl-2019)
 
-# Languague and/or Dialect Identification
+# Language and/or Dialect Identification
   - [Automatic Identification of Closely-related Indian Languages: Resources and Experiments](http://lrec-conf.org/workshops/lrec2018/W11/pdf/26_W11.pdf)
   - [North-Indian Dialect Modelling](https://github.com/niyatibafna/north-indian-dialect-modelling)
 
